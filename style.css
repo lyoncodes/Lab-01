@@ -1,7 +1,8 @@
 @media all and (min-width: 480px) and (max-width: 767px){
   .test {
    background-color: lightgrey;
-   border: 1px solid black; 
+   border: 1px solid black;
+   text-align: center; 
   }
 }
 .grid-container {
@@ -10,20 +11,39 @@
 #a {
  height: 7.109%;
 }
+#a p {
+ margin-top: 25px;
+}
 #b {
  height: 14.218%;
 }
+#b p {
+ padding: 55px;
+}
 #c {
  height: 11.848%;
+}
+#c p {
+ margin-top: 55px;
 }
 #e {
  float: left;
  width: 50%;
  height: 23.6966%;
 }
+
 #f {
  height: 23.6966%;
 }
+#f p {
+ padding: 95px 0px 20px;
+}
+#e p {
+ padding: 95px;
+}
 #foot {
  height: 7.5829%;
+}
+#foot p {
+ padding: 25px;
 }
