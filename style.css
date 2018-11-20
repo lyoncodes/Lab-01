@@ -1,0 +1,29 @@
+@media all and (min-width: 480px) and (max-width: 767px){
+  .test {
+   background-color: lightgrey;
+   border: 1px solid black; 
+  }
+}
+.grid-container {
+ height: 1055px;
+}
+#a {
+ height: 7.109%;
+}
+#b {
+ height: 14.218%;
+}
+#c {
+ height: 11.848%;
+}
+#e {
+ float: left;
+ width: 50%;
+ height: 23.6966%;
+}
+#f {
+ height: 23.6966%;
+}
+#foot {
+ height: 7.5829%;
+}
